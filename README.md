@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=F7F7F7&center=true&lines=PHP+isn't+dead.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=F7F7F7&center=true&lines=Vacation!)](https://git.io/typing-svg)
 | ![AunePVP's GitHub stats](https://github-readme-stats.vercel.app/api?username=AunePVP&show_icons=true&hide=issues,prs&count_private=true&theme=dark&bg_color=000000) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AunePVP&repo=Game-Server-Query-and-Control-Center&theme=dark&bg_color=000000)](https://github.com/AunePVP/Game-Server-Query-and-Control-Center) |
 |---|---|
 | [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AunePVP&theme=dark&bg_color=000000)](https://github.com/AunePVP)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AunePVP&layout=compact&theme=dark&bg_color=000000&langs_count=4)](https://github.com/AunePVP) |
